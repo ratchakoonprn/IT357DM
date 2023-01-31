@@ -1,20 +1,19 @@
 @RELATION winequality-red
 
-@ATTRIBUTE attribute_0 REAL
-@ATTRIBUTE attribute_1 REAL
-@ATTRIBUTE attribute_2 REAL
-@ATTRIBUTE attribute_3 REAL
-@ATTRIBUTE attribute_4 REAL
-@ATTRIBUTE attribute_5 REAL
-@ATTRIBUTE attribute_6 REAL
-@ATTRIBUTE attribute_7 REAL
-@ATTRIBUTE attribute_8 REAL
-@ATTRIBUTE attribute_9 REAL
-@ATTRIBUTE attribute_10 REAL
-@ATTRIBUTE attribute_11 REAL
+@ATTRIBUTE fixedacidity REAL
+@ATTRIBUTE volatileacidity REAL
+@ATTRIBUTE citricacid REAL
+@ATTRIBUTE residualsugar REAL
+@ATTRIBUTE chlorides REAL
+@ATTRIBUTE freesulfurdioxide REAL
+@ATTRIBUTE totalsulfurdioxide REAL
+@ATTRIBUTE density REAL
+@ATTRIBUTE ph REAL
+@ATTRIBUTE sulphates REAL
+@ATTRIBUTE alcohol REAL
+@ATTRIBUTE quality REAL
 
 @DATA
-fixed acidity,volatile acidity,citric acid,residual sugar,chlorides,free sulfur dioxide,total sulfur dioxide,density,pH,sulphates,alcohol,quality
 7.4,0.7,0,1.9,0.076,11,34,0.9978,3.51,0.56,9.4,5
 7.8,0.88,0,2.6,0.098,25,67,0.9968,3.2,0.68,9.8,5
 7.8,0.76,0.04,2.3,0.092,15,54,0.997,3.26,0.65,9.8,5
