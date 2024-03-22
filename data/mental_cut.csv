@@ -1,0 +1,10 @@
+feeling_nervous,panic,breathing_rapidly,sweating,having_trouble_in_concentration,having_trouble_in_sleeping,having_trouble_with_work,feel_hopeless,feel_angry,over_react,have_changes_in_eating,have_suicidal_thought,feeling_tired,N,O,P,Q,R,S,T,U,V,W,X,Y
+no,yes,yes,no,no,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,no,yes,yes,Normal
+yes,yes,yes,yes,no,yes,no,yes,yes,yes,yes,yes,yes,no,yes,yes,no,no,no,no,yes,yes,yes,yes,Anxiety
+yes,yes,no,yes,no,yes,yes,yes,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,yes,no,no,yes,yes,Depression
+yes,yes,yes,no,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,Loneliness
+yes,yes,no,no,no,no,yes,no,yes,yes,no,yes,yes,yes,yes,no,yes,yes,yes,no,no,no,yes,yes,Stress
+yes,yes,no,no,no,no,yes,no,yes,yes,no,yes,yes,no,yes,no,no,no,yes,no,yes,no,yes,yes,Stress
+yes,no,no,yes,no,yes,yes,no,yes,yes,no,yes,yes,yes,yes,no,yes,no,yes,no,yes,yes,no,no,Normal
+yes,no,yes,no,yes,yes,no,no,yes,no,yes,yes,yes,no,yes,no,yes,yes,yes,yes,no,yes,yes,no,Stress
+no,no,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,no,yes,no,yes,no,no,no,yes,no,Depression
